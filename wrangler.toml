@@ -1,0 +1,6 @@
+name = "cloudflare_takehome"
+type = "javascript"
+account_id = "f8a514bb1e961f759de1da03740930a5"
+workers_dev = true
+route = ""
+zone_id = ""
